@@ -38,7 +38,7 @@ body{
 .no-1-number{width: 10%;}
 .no-1-img{width: 40%; margin-left: 20%;}
 .P-1-heading{font-size: 3rem; margin-bottom: 35px;}
-.P-1-content, .P-2-content, .P-3-content{font-size: 1.2rem; line-height: 2rem;font-weight: 300;}
+.P-1-content, .P-2-content, .P-3-content, .P-4-content{font-size: 1.2rem; line-height: 2rem;font-weight: 300;}
 
 .blank-2{display: flex; height: 17vw;}
 .blank-2-ss{height: 20vh;}
@@ -55,4 +55,7 @@ body{
 .no-3-img{width: 80%; float: right;}
 .no-3-size{ position: absolute; bottom: 0px; right: 60px; width: 6vw;}
 .no-3-size2{position: relative;}
-.blank-3 {height: 10vh;}
+.blank-3 {height: 20vh;}
+
+/* part4 */
+.P-4{display: flex;}
