@@ -89,7 +89,15 @@ body{
 .content-9{margin-top: 20px;}
 .no-99{ height: 15vw;}
 .no-9-img{ width: 20vw;}
+.P-9-22{ height: 5vw; margin-bottom: 50px;}
 
+/* part10 */
+.P-10{display: flex;}
+.no-10-img{width: 20vw; float: right;}
+.no-10-size{float: right; margin-top: 50px; width: 9vw;}
+.p-10-ss{height: 10vw; border-bottom: 1px solid black;}
+.p-10-2{display: flex;}
+.content-10{ margin-top: 30px;}
 
 
 .column-1-12{width: calc(95% / 12);}
