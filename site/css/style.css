@@ -17,14 +17,14 @@ body{
    clear:both;
 }
 
-/* heading */
+
 .dieter-rams{font-size: 2rem;}
 .heading{padding-left: 30px; font-weight: 300;}
 .header-image{display: flex;height: 30vw;}
 .blank-1{display: flex; height: 20vw;}
 .dieter-rams-img{width: 80%; float: right;}
 
-/* part1 */
+
 .P-1{display: flex;}
 .no-1-number{width: 10%;}
 .no-1-img{width: 40%; margin-left: 20%;}
@@ -35,47 +35,47 @@ body{
 .blank-2-ss{height: 20vh;}
 .blank-2-xx{height: 10vh; border-top: 1px solid black;}
 
-/* part2 */
+
 .P-2{display: flex; margin-bottom: 15vh;}
 .no-2-size{height: 35vh;}
 .no-2-number{width: 60%; float: right; margin-top: 80px;}
 .no-2-img{width: 50%; float:right;}
 
-/* part3 */
+
 .P-3{display: flex; justify-content: flex-end;}
 .no-3-img{width: 80%; float: right;}
 .no-3-size{ position: absolute; bottom: 0px; right: 60px; width: 6vw;}
 .no-3-size2{position: relative;}
 .blank-3 {height: 20vh;}
 
-/* part4 */
+
 .P-4{display: flex;}
 .no-4-size{float: right; width: 6vw;}
 .no-44{height: 13vw;}
 .no-4-img{ width: 30%; float: right;}
 .p-3-image{ height: 40vh;}
 
-/* part5 */
+
 .P-5{display: flex; width: 100%;}
 .no-5-size{ float: right; width:6vw; margin-top: 30px;}
 .no-55{ height: 35vh;}
 .conent-5{margin-top: 30px;}
 .no-5-img{ width: 6vw; float: right; margin-top: 30px;}
 
-/* part6 */
+
 .P-6{display: flex; height: 14vw;}
 .no-6-size{ width: 6vw;}
 .content-6{ margin-top: 30px;}
 .p-6-image{ display: flex;}
 .no-6-img{ width: 25vw; float: right; margin-bottom: 10vw;}
 
-/* part7 */
+
 .P-7{display: flex; justify-content: flex-end;}
 .no-7-img{width: 12vw; float: right;}
 .no-7-size{width: 6vw; float: right;}
 .no-77{ height: 20vw;}
 
-/* part8 */
+
 .P-8{display: flex;}
 .no-88{height: 15vw;}
 .P-8-2{display: flex;}
@@ -83,7 +83,7 @@ body{
 .content-8{ margin-top: 30px;}
 .P-8-2{ margin-bottom: 200px;}
 
-/* part9 */
+
 .P-9{display: flex;}
 .no-9-size{width:6vw; margin-top: 30px;}
 .content-9{margin-top: 20px;}
@@ -91,13 +91,15 @@ body{
 .no-9-img{ width: 20vw;}
 .P-9-22{ height: 5vw; margin-bottom: 50px;}
 
-/* part10 */
 .P-10{display: flex;}
 .no-10-img{width: 20vw; float: right;}
 .no-10-size{float: right; margin-top: 50px; width: 9vw;}
 .p-10-ss{height: 10vw; border-bottom: 1px solid black;}
 .p-10-2{display: flex;}
 .content-10{ margin-top: 30px;}
+
+.footer{ height: 30vw; display: flex; position: relative;}
+.footer-img{ position: absolute; right: 0; height: 20vw; margin-top: 100px;}
 
 
 .column-1-12{width: calc(95% / 12);}
